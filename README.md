@@ -1,4 +1,66 @@
-# 💫 About Me:
+<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
+
+#### 💫 About Me:
 # 👋 Hi, I'm Kishor Tallur<br><br>### 🚀 Student Entrepreneur | AI & Technology Enthusiast | Public Speaker | Builder<br><br>> **"Think bigger. Move faster. Execute harder."**<br><br>I'm an **Information Science & Engineering graduate** from Canara Engineering College, with a strong interest in **Artificial Intelligence, Data Analytics, SaaS, entrepreneurship, and technology-driven problem solving**.<br><br>I enjoy working at the intersection of **technology, people, and business** — building products, participating in hackathons, leading teams, and communicating ideas that create impact.<br><br>---<br><br>## 🧠 About Me<br><br>- 🎓 **B.E. in Information Science & Engineering** — Canara Engineering College<br>- 📊 CGPA: **7.8**<br>- 🤖 Interested in **Artificial Intelligence & Data Analytics**<br>- 🚀 Student Entrepreneur with a builder mindset<br>- 🎤 Public Speaker & Keynote Speaker<br>- 🏆 Hackathon Winner<br>- 🥇 Top 50 National Rank — XYPHERIA 2026<br>- 👥 Chief Coordinator — **Mangaluru Technovanza 2025**<br>- 💡 Passionate about turning ideas into practical solutions<br>- 🌎 Interested in technology, SaaS, entrepreneurship and global opportunities<br><br>---<br><br>## 🛠️ Areas I Work In<br><br>### 🤖 Artificial Intelligence & Data<br><br>- Artificial Intelligence<br>- Data Analytics<br>- Machine Learning<br>- Medical AI<br>- Computer Vision<br>- AI-driven problem solving<br><br>### 💻 Technology<br><br>- Software Development<br>- SaaS Concepts<br>- Cloud Concepts<br>- Technical Product Development<br>- Technical Documentation<br><br>### 🚀 Entrepreneurship<br><br>- Product Ideation<br>- Startup & Innovation<br>- Product Strategy<br>- Problem Solving<br>- Rapid Prototyping<br>- Hackathons<br><br>### 🎤 Communication & Leadership<br><br>- Public Speaking<br>- High-Impact Conversations<br>- Value Articulation<br>- Stakeholder Communication<br>- Team Coordination<br>- Negotiation<br>- Cross-Cultural Engagement<br><br>---<br><br># 🏆 Achievements<br><br>## 🥇 Hackathon Winner — MediAssist<br><br>**Ceatherion 2025 | 24-Hour Hackathon**<br><br>Won a highly time-constrained 24-hour hackathon by developing and delivering a functional product under pressure.<br><br>> **Focus:** Rapid execution • Problem solving • Product development • Team collaboration<br><br>---<br><br>## 🏅 Top 50 National Rank — PhishShield<br><br>**XYPHERIA 2026 Hackathon**<br><br>Engineered and pitched **PhishShield**, a real-time scam call detection platform, competing against teams at the national level.<br><br>> **Focus:** AI • Cybersecurity • Product thinking • Pitching • Rapid execution<br><br>---<br><br># 💡 Featured Project<br><br>## 🧬 Medical Diagnostic Tool for Retinal Vein Occlusion<br><br>A medical AI project focused on the analysis of **Retinal Vein Occlusion (RVO)**.<br><br>### My Contributions<br><br>- End-to-end technical documentation<br>- Model optimization<br>- Analytical problem solving<br>- Translating complex technical outputs into interpretable information<br><br>### What I Learned<br><br>> Building AI systems is not only about model accuracy — it's about making complex technical results understandable and useful.<br><br>---<br><br># 🎤 Leadership & Public Speaking<br><br>## 🌟 Student Entrepreneur & Keynote Speaker<br><br>Invited to address university student cohorts from **1st to 3rd year** on:<br><br>- Student entrepreneurship<br>- Innovation<br>- Building ideas<br>- Technology<br>- Product thinking<br><br>My focus is on communicating complex ideas with **clarity, confidence and conviction**.<br><br>---<br><br># 👥 Leadership Experience<br><br>## Chief Coordinator — Mangaluru Technovanza 2025<br><br>A major technology summit hosted by **KDEM**.<br><br>### Responsibilities<br><br>- Coordinated volunteer teams<br>- Managed stakeholder communication<br>- Worked with organizers and delegates<br>- Handled event logistics<br>- Resolved real-time issues<br>- Operated under tight schedules<br><br>This experience strengthened my skills in:<br><br>**Leadership • Communication • Negotiation • Coordination • Stakeholder Management • Execution**<br><br>---<br><br># 🎯 What I'm Currently Interested In<br><br>```text<br>Artificial Intelligence<br>        ↓<br>Data & Analytics<br>        ↓<br>Product Development<br>        ↓<br>SaaS & Startups<br>        ↓<br>Entrepreneurship<br>        ↓<br>Real-World Impact
 
 
