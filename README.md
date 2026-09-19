@@ -4,18 +4,20 @@
 
 ### 🚀 Student Entrepreneur • AI & Technology Enthusiast • Builder • Public Speaker
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Ideas+into+Real+Products;Exploring+AI+%26+Machine+Learning;Engineering+Technology+with+Purpose;Learning+%7C+Building+%7C+Leading" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+Ideas+into+Real+Products;Exploring+AI+%26+Machine+Learning;Engineering+Technology+with+Purpose;Learning+%7C+Building+%7C+Leading" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/Kishor-Tallur">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/kishortallur">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:kishortallur05@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
@@ -34,7 +36,7 @@ My interests sit at the intersection of:
 
 **Artificial Intelligence × Software Engineering × Product Development × Entrepreneurship**
 
-I enjoy going beyond simply writing code — I like understanding the problem, designing the solution, building the product, presenting the idea, and learning from the process.
+I enjoy going beyond simply writing code. I like understanding the problem, designing the solution, building the product, presenting the idea, and learning from the process.
 
 > **"Think bigger. Move faster. Execute harder."**
 
@@ -43,7 +45,7 @@ I enjoy going beyond simply writing code — I like understanding the problem, d
 - 🎓 B.E. — Information Science & Engineering
 - 📊 CGPA: **7.8**
 - 🤖 Interested in **AI, Machine Learning & Data Analytics**
-- 💻 Full-stack & software development enthusiast
+- 💻 Full-Stack & Software Development Enthusiast
 - 🚀 Student Entrepreneur
 - 🎤 Public Speaker & Keynote Speaker
 - 🏆 Hackathon Winner
@@ -58,6 +60,7 @@ I enjoy going beyond simply writing code — I like understanding the problem, d
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 Artificial Intelligence
@@ -83,9 +86,11 @@ I enjoy going beyond simply writing code — I like understanding the problem, d
 - DevOps & Deployment
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🚀 Entrepreneurship
@@ -111,6 +116,7 @@ I enjoy going beyond simply writing code — I like understanding the problem, d
 - Event Management
 
 </td>
+
 </tr>
 </table>
 
@@ -121,34 +127,47 @@ I enjoy going beyond simply writing code — I like understanding the problem, d
 ### 👨‍💻 Programming Languages
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,r" />
+
 </p>
 
 ### 🌐 Frontend & Backend
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,fastapi" />
+
 </p>
 
 ### 🗄️ Databases & Cloud
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" />
+
 </p>
 
 ### 🤖 AI / Data Science
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
 </p>
 
 <p align="left">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
 </p>
@@ -156,14 +175,19 @@ I enjoy going beyond simply writing code — I like understanding the problem, d
 ### ⚙️ DevOps & Tools
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,jenkins,linux,vscode" />
+
 </p>
 
 <p align="left">
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </p>
@@ -196,24 +220,26 @@ I worked on **technical documentation, model optimization, analytical problem so
 
 # 🏆 Achievements
 
-### 🥇 MediAssist — Hackathon Winner
+## 🥇 MediAssist — Hackathon Winner
 
-**Ceatherion 2025 | 24-Hour Hackathon**
+### Ceatherion 2025 | 24-Hour Hackathon
 
 Won a 24-hour hackathon by developing and delivering a functional product under an extremely tight deadline.
 
-**Focus:**  
+**Focus:**
+
 `Rapid Execution` • `Problem Solving` • `Product Development` • `Team Collaboration`
 
 ---
 
-### 🏅 PhishShield — Top 50 National Rank
+## 🏅 PhishShield — Top 50 National Rank
 
-**XYPHERIA 2026 Hackathon**
+### XYPHERIA 2026 Hackathon
 
 Engineered and pitched **PhishShield**, a real-time scam call detection platform, competing at the national level.
 
-**Focus:**  
+**Focus:**
+
 `AI` • `Cybersecurity` • `Product Thinking` • `Pitching` • `Rapid Execution`
 
 ---
@@ -251,7 +277,7 @@ A major technology summit hosted by **KDEM**.
 - 🚨 Resolved real-time issues
 - ⏱️ Executed under tight schedules
 
-### Skills developed
+### Skills Developed
 
 `Leadership` • `Communication` • `Negotiation` • `Coordination` • `Stakeholder Management` • `Execution`
 
@@ -282,6 +308,107 @@ A major technology summit hosted by **KDEM**.
                  └──────────┬──────────┘
                             ↓
                  ┌─────────────────────┐
-                 │   Real-World       │
+                 │   Real-World        │
                  │      Impact         │
                  └─────────────────────┘
+```
+
+---
+
+# 🌱 Currently Exploring
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 📊 Data Analytics
+- ☁️ Cloud & DevOps
+- 💻 Full-Stack Development
+- 🚀 SaaS & Startup Building
+- 🧬 Medical AI
+- 💡 Product Development
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kishor-Tallur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-Tallur&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Kishor-Tallur&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kishor-Tallur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&column=7" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kishor-Tallur/Kishor-Tallur/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+<br><br>
+
+### 🟢 Every contribution tells a story.
+
+### 🚀 Keep building. Keep learning. Keep moving.
+
+</div>
+
+---
+
+# 💬 Developer Philosophy
+
+<div align="center">
+
+> **"The best way to predict the future is to build it."**
+
+### Build → Learn → Fail → Improve → Repeat 🔥
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Kishor-Tallur">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/kishortallur">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:kishortallur05@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building ideas. Solving problems. Creating impact.
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
